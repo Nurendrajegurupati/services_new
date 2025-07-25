@@ -29,7 +29,7 @@ A modern and premium-looking Flutter app that helps users book essential home se
 ## 📸 App Screenshots
 
 ### 🔐 Login Page
-![Login Screen](assets/profile.jpeg)
+![Login Screen](assets/login.png)
 
 ### 🏠 Home Screen
 ![Home Screen](assets/screenshots/home_screen.png)
