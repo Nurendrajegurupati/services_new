@@ -1,16 +1,56 @@
-# services_new
+# 🛠️ Home Services App - Flutter
 
-A new Flutter project.
+A modern and premium-looking Flutter app that helps users book essential home services like Cleaning, Plumbing, Electrical, Painting, and more. The app supports real-time booking tracking, service provider selection, and admin-side confirmation features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Email & Password Authentication** (Firebase)
+- 🧹 **Service Categories** (Cleaning, Plumbing, etc.)
+- 🛋️ **Room Selection** (Living Room, Bedroom, Bathroom, Kitchen, Office)
+- 📍 **Location Picker using Google Maps**
+- ⏰ **Date & Time Scheduling**
+- 📦 **My Bookings Section** (Pending → Confirmed)
+- 👨‍🔧 **Admin Panel** for confirming/rejecting bookings
+- 📞 **Call User Feature** for admins
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖥️ Tech Stack
+
+- **Flutter** (UI & Cross-Platform Development)
+- **Dart** (Programming Language)
+- **Firebase** (Authentication & Realtime Database)
+- **Google Maps API** (Location Picker)
+
+---
+
+## 📸 App Screenshots
+
+### 🚀 Splash Screen
+![Splash Screen](assets/screenshots/splash_screen.png)
+
+### 🔐 Login Page
+![Login Screen](assets/screenshots/login_screen.png)
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home_screen.png)
+
+### 🧰 Service Selection Page
+![Service Selection](assets/screenshots/service_selection.png)
+
+### 🛏️ Room Selection Page
+![Room Selection](assets/screenshots/room_selection.png)
+
+### 📍 Address Picker (Map Integration)
+![Address Picker](assets/screenshots/map_address_picker.png)
+
+### 📋 Booking Summary
+![Booking Summary](assets/screenshots/booking_summary.png)
+
+### 📦 My Bookings Page
+![My Bookings](assets/screenshots/my_bookings_page.png)
+
+### 👨‍🔧 Admin Panel (Confirm/Reject/Call)
+![Admin Panel](assets/screenshots/admin_panel.png)
