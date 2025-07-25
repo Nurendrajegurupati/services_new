@@ -51,3 +51,16 @@ A modern and premium-looking Flutter app that helps users book essential home se
 
 ### 👨‍🔧 Admin Panel (Confirm/Reject/Call)
 ![Admin Panel](assets/screenshots/admin_panel.png)
+
+
+
+**Jegurupati Anantha Venkata Nurendra**  
+📧 venkatanurendra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nurendra-jegurupati-429b38232)  
+🔗 [GitHub](https://github.com/yourusername)
+
+---
+
+## 📬 Hire Me for Freelance Work
+
+If you need a Flutter app like this or a custom solution, let’s connect!
