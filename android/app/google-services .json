@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617705387285",
+    "project_id": "services-c0beb",
+    "storage_bucket": "services-c0beb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617705387285:android:ec771c5715215896c9a51c",
+        "android_client_info": {
+          "package_name": "com.example.services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4sGAs5IxyJO9RZebzDpnmWfdR4T9vzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
