@@ -41,7 +41,7 @@ A modern and premium-looking Flutter app that helps users book essential home se
 ---
 
 ### 🧰 Service Selection Page
-<img src="assets/service.jpeg" alt="Service Selection" width="300"/>
+<img src="assets/sevice.jpeg" alt="Service Selection" width="300"/>
 
 ---
 
