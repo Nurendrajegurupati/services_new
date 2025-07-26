@@ -65,7 +65,7 @@
 ---
 
 **🧰 Choose a Service**  
-<img src="assets/service.jpeg" width="280"/>
+<img src="assets/sevice.jpeg" width="280"/>
 
 ---
 
@@ -85,7 +85,7 @@
 ---
 
 **📦 My Bookings**  
-<img src="assets/my_bookings.jpeg" width="280"/>
+<img src="assets/my bookings.jpeg" width="280"/>
 
 ---
 
