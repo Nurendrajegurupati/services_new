@@ -104,7 +104,7 @@
 |-|-------------------------|
 📧 | [venkatanurendra@gmail.com](mailto:venkatanurendra@gmail.com)  
 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/nurendra-jegurupati-429b38232)  
-💻 | [GitHub Portfolio](https://github.com/yourusername) <!-- Replace with actual username -->
+💻 | [GitHub Portfolio](https://github.com/NurendraJegurupati) <!-- Replace with actual username -->
 
 ---
 
