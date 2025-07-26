@@ -32,7 +32,7 @@ A modern and premium-looking Flutter app that helps users book essential home se
 ![Login Screen](assets/login.png)
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
+![Home Screen](assets/home.jpeg)
 
 ### 🧰 Service Selection Page
 ![Service Selection](assets/screenshots/service_selection.png)
