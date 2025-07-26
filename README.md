@@ -35,22 +35,22 @@ A modern and premium-looking Flutter app that helps users book essential home se
 ![Home Screen](assets/home.jpeg)
 
 ### 🧰 Service Selection Page
-![Service Selection](assets/screenshots/service_selection.png)
+![Service Selection](assets/service.jpeg)
 
 ### 🛏️ Room Selection Page
-![Room Selection](assets/screenshots/room_selection.png)
+![Room Selection](assets/room.jpeg)
 
 ### 📍 Address Picker (Map Integration)
-![Address Picker](assets/screenshots/map_address_picker.png)
+![Address Picker](assets/address.jpeg)
 
 ### 📋 Booking Summary
-![Booking Summary](assets/screenshots/booking_summary.png)
+![Booking Summary](assets/booking.jpeg)
 
 ### 📦 My Bookings Page
-![My Bookings](assets/screenshots/my_bookings_page.png)
+![My Bookings](assets/my bookings.jpeg)
 
 ### 👨‍🔧 Admin Panel (Confirm/Reject/Call)
-![Admin Panel](assets/screenshots/admin_panel.png)
+![Admin Panel](assets/admin.jpeg)
 
 
 
