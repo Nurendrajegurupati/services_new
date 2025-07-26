@@ -1,101 +1,91 @@
 # 🛠️ Home Services App – Built with Flutter
 
-> A sleek, feature-rich, **Flutter application** to book reliable home services like Cleaning, Plumbing, Painting, and more – with real-time booking tracking, dynamic admin panel, and an exceptional UI experience.
-
-<p align="center">
-  <img src="assets/home.jpeg" alt="App Preview" width="600"/>
-</p>
+An advanced, feature-rich Flutter application that enables users to seamlessly book essential home services like Cleaning, Plumbing, Electrical, Painting, and more — with real-time admin interaction and modern UI design.
 
 ---
 
-## 🚀 Features at a Glance
+## 🚀 Key Highlights
 
-| ✅ Feature                             | 💡 Description |
-|---------------------------------------|----------------|
-| 🔐 **Secure Auth**                    | Email & password login via Firebase |
-| 🧹 **Service Categories**             | Cleaning, Plumbing, Electrical, Painting, etc. |
-| 🛏️ **Room-wise Selection**           | Living Room, Bedroom, Kitchen, etc. |
-| 📍 **Map Integration**                | Google Maps-powered address picker |
-| ⏰ **Schedule Services**              | Choose date & time for bookings |
-| 📦 **User Bookings**                  | Track from *Pending* → *Confirmed* |
-| 👨‍🔧 **Admin Panel**                  | Admins can Confirm / Reject / Call |
-| 📞 **Call Functionality**             | Instant dial feature from admin dashboard |
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-
-</div>
+- 🔐 **Secure Email & Password Authentication** (Firebase)
+- 🧼 **Category-Based Services** (Cleaning, Plumbing, Electrical, etc.)
+- 🛏️ **Room-wise Area Selection** (Living Room, Bedroom, Bathroom, etc.)
+- 📍 **Google Maps Integration** for Location Selection
+- 📅 **Date & Time Scheduling**
+- 📦 **Dynamic Booking Status** (Pending → Confirmed)
+- 🛠️ **Admin Panel** with Confirm, Reject & Call Options
+- 📞 **One-Tap Calling** to Contact Users Directly
+- 💎 **Ultra-Premium UI** inspired by modern design systems
 
 ---
 
-## 📸 App Screens (Premium UI)
+## 🧱 Tech Stack
+
+| Technology     | Purpose                        |
+|----------------|--------------------------------|
+| **Flutter**    | Cross-platform UI development  |
+| **Dart**       | Application logic & structure  |
+| **Firebase**   | Auth & Realtime Database       |
+| **Google Maps API** | Address selection & location picker |
+
+---
+
+## 📸 App Screens – Stunning Modern UI
+
+> All screenshots below showcase the live app experience.
 
 <div align="center">
 
 ### 🔐 Login Page  
-<img src="assets/login.png" width="300" alt="Login Screen"/>
+<img src="assets/login.png" alt="Login" width="320"/>
 
----
+### 🏠 Home Screen  
+<img src="assets/home.jpeg" alt="Home" width="320"/>
 
-### 🏠 Home Page  
-<img src="assets/home.jpeg" width="300" alt="Home Screen"/>
+### 🧰 Service Selection  
+<img src="assets/service.jpeg" alt="Service Selection" width="320"/>
 
----
+### 🛏️ Room Selection  
+<img src="assets/room.jpeg" alt="Room Selection" width="320"/>
 
-### 🧰 Select Service  
-<img src="assets/sevice.jpeg" width="300" alt="Service Selection"/>
-
----
-
-### 🛏️ Choose Rooms  
-<img src="assets/room.jpeg" width="300" alt="Room Selection"/>
-
----
-
-### 📍 Select Address  
-<img src="assets/address.jpeg" width="300" alt="Address Picker"/>
-
----
+### 📍 Address Picker (Google Maps)  
+<img src="assets/address.jpeg" alt="Map Picker" width="320"/>
 
 ### 📋 Booking Summary  
-<img src="assets/booking.jpeg" width="300" alt="Booking Summary"/>
-
----
+<img src="assets/booking.jpeg" alt="Summary" width="320"/>
 
 ### 📦 My Bookings  
-<img src="assets/my_bookings.jpeg" width="300" alt="My Bookings"/>
-
----
+<img src="assets/my_bookings.jpeg" alt="Bookings" width="320"/>
 
 ### 👨‍🔧 Admin Panel  
-<img src="assets/admin.jpeg" width="300" alt="Admin Panel"/>
+<img src="assets/admin.jpeg" alt="Admin Panel" width="320"/>
 
 </div>
 
 ---
 
-## 👤 Developer
+## 🧑‍💻 About the Developer
 
 **Jegurupati Anantha Venkata Nurendra**  
+🎓 MCA | Flutter Developer | Tech Enthusiast  
 📧 [venkatanurendra@gmail.com](mailto:venkatanurendra@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nurendra-jegurupati-429b38232)  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/yourusername) <!-- Replace with your GitHub username -->
 
 ---
 
-## 💼 Open to Freelance Projects!
+## 💼 Available for Freelance Projects
 
-> Looking to build a **custom mobile app** like this?  
-> Hire me to bring your next app idea to life – with premium design and solid functionality!
+Need a beautiful Flutter app for your business idea or startup?
 
-📨 **[Let’s Connect](mailto:venkatanurendra@gmail.com)**
+🎯 Let's work together! Reach out via email or LinkedIn.  
+✨ High-quality code, fast delivery, and modern design guaranteed.
 
 ---
+
+## 📂 How to Run the App
+
+```bash
+git clone https://github.com/yourusername/home-services-app.git
+cd home-services-app
+flutter pub get
+flutter run
