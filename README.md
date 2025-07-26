@@ -1,63 +1,96 @@
-# 🛠️ Home Services App – Built with Flutter
+<h1 align="center">
+  🏡 Home Services App
+</h1>
 
-An advanced, feature-rich Flutter application that enables users to seamlessly book essential home services like Cleaning, Plumbing, Electrical, Painting, and more — with real-time admin interaction and modern UI design.
+<p align="center">
+  <b>A Modern, Premium-Grade Flutter App for On-Demand Home Services</b><br/>
+  Clean UI. Seamless UX. Admin Control. Built with Firebase & Google Maps.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.22-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Stable-blue?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Integrated-orange?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Google%20Maps-API-green?style=for-the-badge&logo=googlemaps" />
+</p>
 
 ---
 
-## 🚀 Key Highlights
+## ✨ Overview
 
-- 🔐 **Secure Email & Password Authentication** (Firebase)
-- 🧼 **Category-Based Services** (Cleaning, Plumbing, Electrical, etc.)
-- 🛏️ **Room-wise Area Selection** (Living Room, Bedroom, Bathroom, etc.)
-- 📍 **Google Maps Integration** for Location Selection
-- 📅 **Date & Time Scheduling**
-- 📦 **Dynamic Booking Status** (Pending → Confirmed)
-- 🛠️ **Admin Panel** with Confirm, Reject & Call Options
-- 📞 **One-Tap Calling** to Contact Users Directly
-- 💎 **Ultra-Premium UI** inspired by modern design systems
+> **Home Services App** is a sleek, professionally-designed Flutter application that lets users book essential home services with just a few taps. From room-wise cleaning to plumbing & painting, users can select service providers, schedule appointments, and track their bookings in real-time.
+
+---
+
+## 🧠 Features
+
+| 🔐 Authentication  | Email & Password via Firebase               |
+|--------------------|---------------------------------------------|
+| 📂 Service Modules | Cleaning, Plumbing, Electrical, Painting   |
+| 🏠 Room Selection  | Living Room, Bedroom, Bathroom, Kitchen    |
+| 📍 Address Picker  | Google Maps Integration (Realtime)         |
+| 📆 Date/Time       | Schedule bookings with ease                |
+| 📋 Bookings        | View & track service status (Pending → Confirmed) |
+| 🔧 Admin Panel     | Confirm / Reject / Call Users              |
+| 📞 One-Tap Call    | Initiate a call to the customer instantly  |
 
 ---
 
 ## 🧱 Tech Stack
 
-| Technology     | Purpose                        |
-|----------------|--------------------------------|
-| **Flutter**    | Cross-platform UI development  |
-| **Dart**       | Application logic & structure  |
-| **Firebase**   | Auth & Realtime Database       |
-| **Google Maps API** | Address selection & location picker |
+| Layer              | Tools / Services                            |
+|-------------------|----------------------------------------------|
+| UI                | Flutter 3.22, Dart                          |
+| Backend/Auth      | Firebase Authentication & Realtime Database |
+| Maps              | Google Maps API                             |
+| State Management  | setState / Firebase StreamBuilder           |
+| Deployment        | Android (Fully Tested)                      |
 
 ---
 
-## 📸 App Screens – Stunning Modern UI
+## 🎨 UI Showcase
 
-> All screenshots below showcase the live app experience.
+> 💎 *Crafted with elegance, designed for user delight.*
 
 <div align="center">
 
-### 🔐 Login Page  
-<img src="assets/login.png" alt="Login" width="320"/>
+**🔐 Login Page**  
+<img src="assets/login.png" width="280"/>
 
-### 🏠 Home Screen  
-<img src="assets/home.jpeg" alt="Home" width="320"/>
+---
 
-### 🧰 Service Selection  
-<img src="assets/service.jpeg" alt="Service Selection" width="320"/>
+**🏠 Home Screen**  
+<img src="assets/home.jpeg" width="280"/>
 
-### 🛏️ Room Selection  
-<img src="assets/room.jpeg" alt="Room Selection" width="320"/>
+---
 
-### 📍 Address Picker (Google Maps)  
-<img src="assets/address.jpeg" alt="Map Picker" width="320"/>
+**🧰 Choose a Service**  
+<img src="assets/service.jpeg" width="280"/>
 
-### 📋 Booking Summary  
-<img src="assets/booking.jpeg" alt="Summary" width="320"/>
+---
 
-### 📦 My Bookings  
-<img src="assets/my_bookings.jpeg" alt="Bookings" width="320"/>
+**🛏️ Room Selection**  
+<img src="assets/room.jpeg" width="280"/>
 
-### 👨‍🔧 Admin Panel  
-<img src="assets/admin.jpeg" alt="Admin Panel" width="320"/>
+---
+
+**📍 Google Maps Address Picker**  
+<img src="assets/address.jpeg" width="280"/>
+
+---
+
+**🧾 Booking Summary**  
+<img src="assets/booking.jpeg" width="280"/>
+
+---
+
+**📦 My Bookings**  
+<img src="assets/my_bookings.jpeg" width="280"/>
+
+---
+
+**🛠️ Admin Panel (Confirm / Reject / Call)**  
+<img src="assets/admin.jpeg" width="280"/>
 
 </div>
 
@@ -65,24 +98,26 @@ An advanced, feature-rich Flutter application that enables users to seamlessly b
 
 ## 🧑‍💻 About the Developer
 
-**Jegurupati Anantha Venkata Nurendra**  
-🎓 MCA | Flutter Developer | Tech Enthusiast  
-📧 [venkatanurendra@gmail.com](mailto:venkatanurendra@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nurendra-jegurupati-429b38232)  
-🔗 [GitHub](https://github.com/yourusername) <!-- Replace with your GitHub username -->
+### Jegurupati Anantha Venkata Nurendra
+
+| | |
+|-|-------------------------|
+📧 | [venkatanurendra@gmail.com](mailto:venkatanurendra@gmail.com)  
+🔗 | [LinkedIn Profile](https://www.linkedin.com/in/nurendra-jegurupati-429b38232)  
+💻 | [GitHub Portfolio](https://github.com/yourusername) <!-- Replace with actual username -->
 
 ---
 
-## 💼 Available for Freelance Projects
+## 🤝 Hire Me
 
-Need a beautiful Flutter app for your business idea or startup?
+I build premium-quality Flutter apps tailored for business needs.
 
-🎯 Let's work together! Reach out via email or LinkedIn.  
-✨ High-quality code, fast delivery, and modern design guaranteed.
+> 💼 Available for Freelance, Startup MVPs & Custom Apps  
+> 💬 Let’s build your next big idea. Drop me an [email](mailto:venkatanurendra@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nurendra-jegurupati-429b38232).
 
 ---
 
-## 📂 How to Run the App
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/yourusername/home-services-app.git
